@@ -265,7 +265,7 @@ O vídeo deve durar de 2 a 3 minutos e não deve ter narração. Há uma sugest�
 
 Equipe reproduzida do README de referência fornecido; confirmar antes da entrega:
 
-| Nome completo | RA |
+| Nome completo | RGM |
 |---|---|
 | Emilly Larissa Machado Silva | 49706713 |
 | Guilherme Yoshio da Silva Shibata | 47787520 |
