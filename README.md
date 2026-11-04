@@ -271,3 +271,4 @@ Equipe reproduzida do README de referência fornecido; confirmar antes da entreg
 | Guilherme Yoshio da Silva Shibata | 47787520 |
 | Gustavo Candile Monteiro Barbosa | 47174501 |
 | Guilherme Roger Lourenço Pereira | 47370190 |
+| Allan Hidalgo de Carvalho | 48398675 | 
