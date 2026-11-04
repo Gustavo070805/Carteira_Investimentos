@@ -240,9 +240,7 @@ O simulador busca contribuir para a inclusão financeira ao traduzir conceitos d
 
 ## Vídeo de demonstração
 
-Link: PENDENTE — inserir aqui o endereço do vídeo não listado no YouTube ou compartilhado pelo Google Drive.
-
-O vídeo deve durar de 2 a 3 minutos e não deve ter narração. Há uma sugestão de sequência em `ROTEIRO_VIDEO.md`. Não inclua o arquivo de vídeo no ZIP. A gravação, publicação e substituição deste campo precisam ser realizadas pelo grupo antes da entrega.
+Link: https://www.youtube.com/watch?v=VBuasdDqpYc
 
 ## Entrega e apresentação
 
@@ -260,10 +258,6 @@ O vídeo deve durar de 2 a 3 minutos e não deve ter narração. Há uma sugest�
 - Não há cotações em tempo real, autenticação, criptografia ou integração bancária.
 - Valores usam ponto flutuante; trata-se de uma aplicação didática, não de um sistema contábil de produção.
 - A classificação de risco e as taxas do simulador são simplificações educativas.
-
-## Link Da Demonstração
-
-- https://www.youtube.com/watch?v=VBuasdDqpYc
 
 ## Desenvolvedores
 
