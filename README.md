@@ -261,6 +261,10 @@ O vídeo deve durar de 2 a 3 minutos e não deve ter narração. Há uma sugest�
 - Valores usam ponto flutuante; trata-se de uma aplicação didática, não de um sistema contábil de produção.
 - A classificação de risco e as taxas do simulador são simplificações educativas.
 
+## Link Da Demonstração
+
+- https://www.youtube.com/watch?v=VBuasdDqpYc
+
 ## Desenvolvedores
 
 Equipe reproduzida do README de referência fornecido; confirmar antes da entrega:
